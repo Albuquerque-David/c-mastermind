@@ -44,8 +44,8 @@ make
 
 # Compilation
 ```
-git clone https://github.com/Cardosaum/ufrj-comp1-senha
-cd ufrj-comp1-senha
+git clone https://github.com/Albuquerque-David/c-mastermind.git
+cd c-mastermind
 make
 ```
 
